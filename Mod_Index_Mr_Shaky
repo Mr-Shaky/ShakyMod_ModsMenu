@@ -1,11 +1,13 @@
 {
     "ShakyMod_ModsMenu": {
+        "mod_author": "Mr_Shaky",
         "description": "Completely overhauls the games mod menu screen to show versions and requirements and more for mods that support it.",
         "latest_version": 1.74,
         "latest_update": "Added ability for mod creators to specify which game variant a mod is compatible with etc \"DSCS\" and/or \"SR24\"",
         "link": "https://mega.nz/folder/XWhCmDTK#0-FfjWq_oz_XFBfLAyysjA"
     },
     "ShakyMod_Tweaks": {
+        "mod_author": "Mr_Shaky",
         "description": "Adds toggle-able tweaks to customize your experience. Also comes with a cheat menu.",
         "latest_version": 1.3,
         "latest_update": "Automatically disables incompatible debt/economy options when using Tweaks with SR24.",
@@ -13,6 +15,7 @@
         "link": "https://mega.nz/folder/PKgXSTgJ#rT8352nePJwnDfetIzozcA"
     },
     "ShakyMod_Fitness": {
+        "mod_author": "Mr_Shaky",
         "description": "Adds a fitness stat that affects your max energy and a gym where you can train to increase it.",
         "latest_version": "dev",
         "latest_update": null,
@@ -20,12 +23,14 @@
         "link": null
     },
     "ShakyMod_Parts": {
+        "mod_author": "Mr_Shaky",
         "description": "Fills in the gaps in vanilla parts so that all part categories have F to S options.",
         "latest_version": 1.1,
         "latest_update": null,
         "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
     },
     "ShakyMod_Parts_Defects": {
+        "mod_author": "Mr_Shaky",
         "description": "Fills in the gaps in vanilla parts so that all part categories have F to S options. Also adds custom defects to all parts including vanilla.",
         "latest_version": 1,
         "latest_update": null,
@@ -33,30 +38,35 @@
         "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
     },
     "ShakyMod_Names_VanillaExpanded": {
+        "mod_author": "Mr_Shaky",
         "description": "Expands the 2 vanilla namelists with a ton of new names.",
         "latest_version": 1,
         "latest_update": null,
         "link": "https://mega.nz/file/mLhHADSB#7lxVUr4gxABjgrhYnK9pdcsIwwT2xUPc2Txr3DLMsZI"
     },
     "ShakyMod_Defects": {
+        "mod_author": "Mr_Shaky",
         "description": "Adds a collection of defects intended for other mods to use.",
         "latest_version": 1,
         "latest_update": null,
         "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
     },
     "ShakyMod_IllegalFights": {
+        "mod_author": "Mr_Shaky",
         "description": "Adds an illegal underground fighting ring you can send your bots to.",
         "latest_version": 1,
         "latest_update": null,
         "link": "https://mega.nz/folder/jLJRkaBb#O_KESpyuqKKSUU113HXeEQ"
     },
     "ShakyMod_BotSchool": {
+        "mod_author": "Mr_Shaky",
         "description": "Adds a school you can send your bots to in the morning to level up their skills.",
         "latest_version": 1,
         "latest_update": null,
         "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw"
     },
     "ShakyMod_EasyEasy": {
+        "mod_author": "Mr_Shaky",
         "description": "Gives easy mode enough character points to max all skills.",
         "latest_version": null,
         "latest_update": null,
