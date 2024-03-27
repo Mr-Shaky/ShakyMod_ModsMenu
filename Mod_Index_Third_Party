@@ -1,0 +1,75 @@
+{
+    "SR24": {
+        "mod_author": "squirrel24",
+        "description": "This is not a regular mod. It's a spin-off of DSCS.",
+        "latest_version": 0.3.3,
+        "latest_update": "",
+        "link": "https://discord.com/channels/928282011582472223/937684102902071387/1205320461890756628"
+    },
+    "squirrel_mob_quest": {
+        "mod_author": "squirrel24",
+        "description": "Extortion by the local mob for 'protection'",
+        "latest_version": 3.1,
+        "latest_update": "",
+        "mod_requirements": "ShakyMod_Parts",
+        "link": "https://mega.nz/file/HvxyHDrI#voG4hEewA-TvDASrYh_9rR9-Yhw4iTobLwq6bz_7bcs"
+    },
+    "squirrel_night_school_quest": {
+        "mod_author": "squirrel24",
+        "description": "Do you need to increase your bots social skills? Are you too geeky to know how to do this? If so maybe you can go to night school!",
+        "latest_version": "2.2",
+        "latest_update": "",
+        "mod_requirements": {"squirrel_night_school_quest_main.rpy":"2.2"},
+        "link": "https://mega.nz/file/uvh0kayZ#X1f6rdDN8ybpsSeAAvbKnriPBbw-xaAy7R1GB74EIds"
+    },
+    "ShakyMod_Parts": {
+        "mod_author": "Mr_Shaky",
+        "description": "Fills in the gaps in vanilla parts so that all part categories have F to S options.",
+        "latest_version": 1.1,
+        "latest_update": null,
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
+    },
+    "ShakyMod_Parts_Defects": {
+        "mod_author": "Mr_Shaky",
+        "description": "Fills in the gaps in vanilla parts so that all part categories have F to S options. Also adds custom defects to all parts including vanilla.",
+        "latest_version": 1,
+        "latest_update": null,
+        "mod_requirements": "ShakyMod_Defects",
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
+    },
+    "ShakyMod_Names_VanillaExpanded": {
+        "mod_author": "Mr_Shaky",
+        "description": "Expands the 2 vanilla namelists with a ton of new names.",
+        "latest_version": 1,
+        "latest_update": null,
+        "link": "https://mega.nz/file/mLhHADSB#7lxVUr4gxABjgrhYnK9pdcsIwwT2xUPc2Txr3DLMsZI"
+    },
+    "ShakyMod_Defects": {
+        "mod_author": "Mr_Shaky",
+        "description": "Adds a collection of defects intended for other mods to use.",
+        "latest_version": 1,
+        "latest_update": null,
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
+    },
+    "ShakyMod_IllegalFights": {
+        "mod_author": "Mr_Shaky",
+        "description": "Adds an illegal underground fighting ring you can send your bots to.",
+        "latest_version": 1,
+        "latest_update": null,
+        "link": "https://mega.nz/folder/jLJRkaBb#O_KESpyuqKKSUU113HXeEQ"
+    },
+    "ShakyMod_BotSchool": {
+        "mod_author": "Mr_Shaky",
+        "description": "Adds a school you can send your bots to in the morning to level up their skills.",
+        "latest_version": 1,
+        "latest_update": null,
+        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw"
+    },
+    "ShakyMod_EasyEasy": {
+        "mod_author": "Mr_Shaky",
+        "description": "Gives easy mode enough character points to max all skills.",
+        "latest_version": null,
+        "latest_update": null,
+        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw"
+    }
+}
