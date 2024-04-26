@@ -1,10 +1,8 @@
 {
     "DSCS": {
         "author": "Radnor",
-        "description": "Completely overhauls the games mod menu screen to show versions and requirements and more for mods that support it.",
-        "latest_version": 1.74,
-        "latest_changes": "Added ability for mod creators to specify which game variant a mod is compatible with etc \"DSCS\" and/or \"SR24\"",
-        "link": "https://mega.nz/folder/XWhCmDTK#0-FfjWq_oz_XFBfLAyysjA"
+        "description": "Base game",
+        "latest_version": "0.4.1",
     },
     "ShakyMod_ModsMenu": {
         "author": "Mr_Shaky",    
