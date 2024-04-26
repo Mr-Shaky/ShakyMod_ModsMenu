@@ -2,41 +2,56 @@
     "DSCS": {
         "author": "Radnor",
         "description": "Base game",
-        "latest_version": "0.4.2",
+        "latest_version": "0.4.2"
     },
     "ShakyMod_ModsMenu": {
-        "author": "Mr_Shaky",    
+        "author": "Mr_Shaky",
         "description": "Completely overhauls the games mod menu screen to show versions and requirements and more for mods that support it.",
         "latest_version": 1.74,
         "latest_changes": "Added ability for mod creators to specify which game variant a mod is compatible with etc \"DSCS\" and/or \"SR24\"",
-        "link": "https://mega.nz/folder/XWhCmDTK#0-FfjWq_oz_XFBfLAyysjA"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/XWhCmDTK#0-FfjWq_oz_XFBfLAyysjA",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_Tweaks": {
         "author": "Mr_Shaky",
         "description": "Adds toggle-able tweaks to customize your experience. Also comes with a cheat menu.",
         "latest_version": 1.3,
         "latest_changes": "Automatically disables incompatible debt/economy options when using Tweaks with SR24.",
-        "mod_requirements": {"ShakyMod_ModsMenu":1.65},
-        "link": "https://mega.nz/folder/PKgXSTgJ#rT8352nePJwnDfetIzozcA"
-        "game_compatibility": ["DSCS", "SR24"]
+        "mod_requirements": {
+            "ShakyMod_ModsMenu": 1.65
+        },
+        "link": "https://mega.nz/folder/PKgXSTgJ#rT8352nePJwnDfetIzozcA",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_Fitness": {
         "author": "Mr_Shaky",
         "description": "Adds a fitness stat that affects your max energy and a gym where you can train to increase it.",
         "latest_version": "dev",
         "latest_changes": null,
-        "mod_requirements_optional": {"ShakyMod_ModsMenu":1.65},
-        "link": null
-        "game_compatibility": ["DSCS"]
+        "mod_requirements_optional": {
+            "ShakyMod_ModsMenu": 1.65
+        },
+        "link": null,
+        "game_compatibility": [
+            "DSCS"
+        ]
     },
     "ShakyMod_Parts": {
         "author": "Mr_Shaky",
         "description": "Fills in the gaps in vanilla parts so that all part categories have F to S options.",
         "latest_version": 1.1,
         "latest_changes": null,
-        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_Parts_Defects": {
         "author": "Mr_Shaky",
@@ -44,47 +59,64 @@
         "latest_version": 1,
         "latest_changes": null,
         "mod_requirements": "ShakyMod_Defects",
-        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_Names_VanillaExpanded": {
         "author": "Mr_Shaky",
         "description": "Expands the 2 vanilla namelists with a ton of new names.",
         "latest_version": 1,
         "latest_changes": null,
-        "link": "https://mega.nz/file/mLhHADSB#7lxVUr4gxABjgrhYnK9pdcsIwwT2xUPc2Txr3DLMsZI"
-        "game_compatibility": ["DSCS"]
+        "link": "https://mega.nz/file/mLhHADSB#7lxVUr4gxABjgrhYnK9pdcsIwwT2xUPc2Txr3DLMsZI",
+        "game_compatibility": [
+            "DSCS"
+        ]
     },
     "ShakyMod_Defects": {
         "author": "Mr_Shaky",
         "description": "Adds a collection of defects intended for other mods to use.",
         "latest_version": 1,
         "latest_changes": null,
-        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/PPJh0KIb#f5EACK71nH1hulBt9ha7Qw",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_IllegalFights": {
         "author": "Mr_Shaky",
         "description": "Adds an illegal underground fighting ring you can send your bots to.",
         "latest_version": 1,
         "latest_changes": null,
-        "link": "https://mega.nz/folder/jLJRkaBb#O_KESpyuqKKSUU113HXeEQ"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/jLJRkaBb#O_KESpyuqKKSUU113HXeEQ",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_BotSchool": {
         "author": "Mr_Shaky",
         "description": "Adds a school you can send your bots to in the morning to level up their skills.",
         "latest_version": 1,
         "latest_changes": null,
-        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     },
     "ShakyMod_EasyEasy": {
         "author": "Mr_Shaky",
         "description": "Gives easy mode enough character points to max all skills.",
         "latest_version": null,
         "latest_changes": null,
-        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw"
-        "game_compatibility": ["DSCS", "SR24"]
+        "link": "https://mega.nz/folder/6eg3HDiY#wppuDJVSFJnniKbEpQpmuw",
+        "game_compatibility": [
+            "DSCS",
+            "SR24"
+        ]
     }
 }
