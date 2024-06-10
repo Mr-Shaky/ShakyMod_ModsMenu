@@ -1,27 +1,31 @@
 {
-    "SR24": {
-        "mod_author": "squirrel24",
-        "description": "This is not a regular mod. It's a spin-off of DSCS.",
-        "latest_version": "0.5.2",
-        "latest_update": "",
-        "link": "https://mega.nz/folder/T3x3mLDA#RrfDuC7_2EXCXl8fdGol-w"
+    "games": {
+        "SR24": {
+            "mod_author": "squirrel24",
+            "description": "This is not a regular mod. It's a spin-off of DSCS.",
+            "latest_version": "0.5.2",
+            "latest_update": "",
+            "link": "https://mega.nz/folder/T3x3mLDA#RrfDuC7_2EXCXl8fdGol-w"
+        }
     },
-    "squirrel_mob_quest": {
-        "mod_author": "squirrel24",
-        "description": "Extortion by the local mob for 'protection'",
-        "latest_version": 3.1,
-        "latest_update": "",
-        "mod_requirements": "ShakyMod_Parts",
-        "link": "https://mega.nz/file/HvxyHDrI#voG4hEewA-TvDASrYh_9rR9-Yhw4iTobLwq6bz_7bcs"
-    },
-    "squirrel_night_school_quest": {
-        "mod_author": "squirrel24",
-        "description": "Do you need to increase your bots social skills? Are you too geeky to know how to do this? If so maybe you can go to night school!",
-        "latest_version": "2.2",
-        "latest_update": "",
-        "mod_requirements": {
-            "squirrel_night_school_quest_main.rpy": "2.2"
+    "mods": {
+        "squirrel_mob_quest": {
+            "mod_author": "squirrel24",
+            "description": "Extortion by the local mob for 'protection'",
+            "latest_version": 3.1,
+            "latest_update": "",
+            "mod_requirements": "ShakyMod_Parts",
+            "link": "https://mega.nz/file/HvxyHDrI#voG4hEewA-TvDASrYh_9rR9-Yhw4iTobLwq6bz_7bcs"
         },
-        "link": "https://mega.nz/file/uvh0kayZ#X1f6rdDN8ybpsSeAAvbKnriPBbw-xaAy7R1GB74EIds"
+        "squirrel_night_school_quest": {
+            "mod_author": "squirrel24",
+            "description": "Do you need to increase your bots social skills? Are you too geeky to know how to do this? If so maybe you can go to night school!",
+            "latest_version": "2.2",
+            "latest_update": "",
+            "mod_requirements": {
+                "squirrel_night_school_quest_main.rpy": "2.2"
+            },
+            "link": "https://mega.nz/file/uvh0kayZ#X1f6rdDN8ybpsSeAAvbKnriPBbw-xaAy7R1GB74EIds"
+        }
     }
 }
