@@ -1,12 +1,6 @@
 {
     "indexes": [],
-    "games": {
-        "DSCS": {
-            "author": "Radnor",
-            "description": "Vanilla DSCS",
-            "latest_version": "0.4.1"
-        }
-    },
+    "games": {},
     "mods": {
         "ShakyMod_ModsMenu": {
             "author": "Mr_Shaky",
